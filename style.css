@@ -1,0 +1,137 @@
+.imgs{
+    margin-top: 10%;
+    margin-left:50%;
+    }
+    .h1{
+      margin-left: auto;
+      margin-right: auto;
+       
+      color: rgb(166, 230, 166);
+      text-align: center;
+      
+    }
+    .par{
+      display: flex;
+      
+      justify-content: space-around;
+    }
+    .hamza
+    {
+        width: 35%;
+    }
+    .sss{
+      display: flex;
+      align-content: stretch;
+        justify-content: space-between;
+       margin-left: auto;
+       margin-right: auto;
+        width: 70%;
+    
+    }
+    .xxx{
+      color: rgb(166, 230, 166);
+      text-align: left;
+      
+    
+    }
+    .ass
+    {
+      display: flex;
+    }
+    
+    .sec{
+      width: 70%;
+      margin-left: auto;
+      margin-right: auto;
+      
+    }
+    .ohh{
+      position: relatifive;
+    
+    }
+    
+    .qqq{
+      color: rgb(166, 230, 166);
+      text-align: left;
+    }
+    .saa{
+      border: 1px;
+    }
+    .cc{
+      display: flex;
+    
+        justify-content: space-between;
+    
+    }
+    .www{
+      margin-right: 200px;
+    
+    }
+    .aww{
+      margin-left: auto;
+      margin-right: auto;
+       width: 70%;
+      color: rgb(166, 230, 166);
+    
+    }
+    p{
+      text-align: center;
+      size: 10px;
+    }
+    .ddd{
+      display: flex;
+     flex-wrap: wrap;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+      justify-content: space-around;
+    
+    }
+
+    .card{
+      height: max-content;
+      margin-top: 30px ;
+      box-shadow: 1px 2px 10px rgb(209, 209, 209);
+    
+    }
+    .asma{
+      display: flex;
+      
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .caa
+    {
+      display: flex;
+      flex-wrap: wrap;
+      align-content: center;
+      flex-direction: row;
+      justify-content: space-around;
+     
+    }
+    .hhh{
+      text-align: center;
+      color: rgb(166, 230, 166);
+    }
+    .aze{
+      
+      margin: 10%;
+     
+    }
+    .aww
+    {
+        width: 60%;
+        text-align: center;
+    }
+    .hamza2
+    {
+        width: 60%;
+        margin-left: 200px;
+        margin-top: 40px;
+    }
+    footer{
+      background: grey;
+      text-align: center;
+    }
+
